@@ -247,4 +247,4 @@ binding.testSlideLayout.setScrollView(R.id.test_list_view)
 
 **전체 소스코드는 밑의 링크에서 확인할 수 있습니다.**
 
-https://github.com/Moony-H/LunchBox_release/blob/master/app/src/main/java/moony/SlideLayout.kt
+[https://github.com/Moony-H/LunchBox_release/blob/master/app/src/main/java/moony/SlideLayout.kt](https://github.com/Moony-H/SlideUpLayout/blob/master/app/SlideUpLayout/src/main/java/com/example/slideuplayout/SlideUpLayout.kt)
