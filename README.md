@@ -1,4 +1,4 @@
-# SlideLayout
+# SlideUpLayout
 
 뷰를 슬라이드 하여 화면을 일부, 또는 전체를 가릴 수 있게 하는 ViewGroup을 만들었습니다.
 
