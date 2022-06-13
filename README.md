@@ -43,7 +43,7 @@ dependencies {
 
 <br/>
 
-이로서 Android Studio에 설치하여 ImageControlView를 사용하실 수 있습니다.
+이로서 Android Studio에 설치하여 SlideUpLayout을 사용하실 수 있습니다.
 
 <br/>
 
