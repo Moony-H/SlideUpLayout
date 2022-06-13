@@ -67,7 +67,7 @@ class SlideUpLayout: ViewGroup {
             val typeArray = context.obtainStyledAttributes(attrs, R.styleable.SlideLayout)
             mSlideLayoutExposureHeight = typeArray.getDimensionPixelSize(
                 R.styleable.SlideLayout_moony_SlideLayout_exposureHeight,
-                164
+                328
             )
             mSlideLayoutMaxHeight = typeArray.getDimensionPixelOffset(
                 R.styleable.SlideLayout_moony_SlideLayout_maxHeight,
