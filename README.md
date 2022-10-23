@@ -12,30 +12,16 @@ this ViewGroup can have only two child view, and it have to be match_parent
 
 <br/>
 
-## 사용 방법
+
+## How To Use(사용 방법)
 
 <br/>
+
+this repository released to Jitpack: [https://jitpack.io/#Moony-H/SlideUpLayout](https://jitpack.io/#Moony-H/SlideUpLayout)
 
 이 Repository는 Jitpack에 배포되었습니다. 링크: [https://jitpack.io/#Moony-H/SlideUpLayout](https://jitpack.io/#Moony-H/SlideUpLayout)
 
-따라서 아래와 같은 방법으로 사용 가능합니다.
 
-root build.gradle에 아래와 같이 추가 합니다.
-
-<br/>
-
-```gradle
-allprojects {
-    repositories {
-	    ...
-		maven { url 'https://jitpack.io' }
-	}
-}
-```
-
-<br/>
-
-그 다음 의존성을 추가합니다
 
 <br/>
 
@@ -46,6 +32,8 @@ dependencies {
 ```
 
 <br/>
+
+than, you can use SlideLayout!
 
 이로서 Android Studio에 설치하여 SlideUpLayout을 사용하실 수 있습니다.
 
