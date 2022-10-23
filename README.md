@@ -1,6 +1,10 @@
 # SlideUpLayout
 
+i made ViewGroup can covers the whole or part of the screen by slide
+
 뷰를 슬라이드 하여 화면을 일부, 또는 전체를 가릴 수 있게 하는 ViewGroup을 만들었습니다.
+
+this ViewGroup can have only two child view, and it have to be match_parent
 
 이 뷰 그룹은 단 두개의 자식 View만을 가질 수 있으며, 모두 match_parent 속성이어야 합니다.
 
